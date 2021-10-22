@@ -12,6 +12,15 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+
+Outside Sources
+====================
+
+Some code taken from:
+-https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+-https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/radial-gradient()
+-https://stackoverflow.com/a/40557564
+
 Changes to the Gutenberg HTML files
 ====================
 
